@@ -5,3 +5,4 @@ scikit-learn
 joblib
 shap
 streamlit-shap
+matplotlib
